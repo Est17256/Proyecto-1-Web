@@ -1,0 +1,34 @@
+.inside{
+    display: block;
+    position: relative;
+    left: 5px;
+    box-sizing: border-box;
+    width: 97%;
+    margin: 0 0 0rem;
+    padding: 0.5rem;
+    background-color: #fefefe;
+    border: solid 1px #13b2ff;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.5;
+    padding-left: 55px;
+    transition: box-shadow 0.5s, border-color 0.25s ease-in-out;
+    -webkit-appearance: none;
+}
+
+::-webkit-input-placeholder { /* Edge */
+    color: #C7C7CD;
+    font-weight: 500;
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer */
+    color: #C7C7CD;
+    font-weight: 500;
+  }
+  
+  ::placeholder {
+    color: #C7C7CD;
+    font-weight: 500;
+  }

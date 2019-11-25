@@ -1,0 +1,25 @@
+.button {
+    position: relative;
+    right: 10%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13.5px;
+    font-weight: 800;
+    display: inline-block;
+    padding: 11.2px 16px;
+    margin-top: 50px;
+    margin-left: 35px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    bottom: 32px;
+
+    background-image: linear-gradient(white, white), linear-gradient(transparent, transparent);
+    background-size: 0 2px, auto;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: all .4s ease-out;
+  }
+  
+  .button:hover {
+    background-size: 100% 2px, auto;
+  }
