@@ -45,6 +45,10 @@ npm start
 
 * [GitHub](https://github.com/)
 
+## Resolucion
+
+* Ver en 1920 X 935
+
 ## Autores
 
 * **Luis Esturban** - *Creador y Desarrollador* 
